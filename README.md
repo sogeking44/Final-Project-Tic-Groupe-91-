@@ -1,8 +1,9 @@
-   # Tic Project Group 89 
+   # Tic Project
 
-Section C
+#### Section  C
+#### Groupe 89
 
-Contributors 
+## Contributors 
 | Name | Github |
 | ------ | ------ |
 | Taleb Idriss | [Idriss][Idriss] |
@@ -10,7 +11,7 @@ Contributors
 | Maten Anis | [Anis][Anis] |
 | Halimi Anes | [sogeking44][Anes] |
 | Benayache Yacine | [Yacine][Yacine] |
-| SI MOHAMMED Redouane | [Redouane][Redouane] |
+| SI MOHAMMED Redouane | [Redouaned][Redouane] |
 
    [Anes]: <https://github.com/sogeking44>
    [Anis]: <https://github.com/Anis>
